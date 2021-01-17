@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use of Force (Montana) /# 2
+title: Use of Force (Montana) \# 2
 categories: Law Tactics
 ---
 
