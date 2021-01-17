@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use of Force *Montana* 1
+title: Use of Force Montana 1
 categories: Law Tactics
 ---
 
