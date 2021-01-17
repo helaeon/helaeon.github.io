@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: ---
+name: helaeon updates
 
 # Name of the author
 author: helaeon
@@ -12,7 +12,7 @@ author: helaeon
 description: A blog for the Defender
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/helaeon.png
 
 #
 # Flags below are optional
