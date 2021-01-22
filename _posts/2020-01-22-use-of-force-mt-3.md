@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Use of Force Montana 3 Force Continuum
-categories: Law Tactics
+excerpt_separator: <!--more-->
+categories: [Law, Tactics]
 ---
 
 ##### A reminder, I'm not an attorney. None of this is legal advice. Simply passing along my framework, previous experience, and training.
 Continuing from last week's post on disparity of force and the pillars of justified force.
 
 Most if not all law enforcement agencies around the country have a policy that describes escalating uses of force to control subjects based on the subject's level of resistance. Your opponent chooses the level of force you may justifiably use. Your goal is deescalating the level of force needed by increasing the level of control and gaining compliance or removing the ability to resist. Generally the defender may use one level of force above the level being used by the aggressor in order to quickly resolve the situation and ensure the defender prevails. This "one level" is often very unclear because the continuum is not linear and has overlapping levels on each step.
+<!--more-->
 
 Minimum effective force should be deployed whenever practical and possible. Keep in mind one may have to rapidly escalate force, sometimes skipping whole levels, in a manner of milliseconds in order to prevail. It is not necessary or wise to rip through the entire continuum against someone actively shooting at you by being there, yelling commands, grappling with your opponent, punching them, using pepper spray, then finally shooting them. The goal of increasing force is to stop the need for further force and escalation, without becoming excessive. Once the threat is stopped your application of force must also stop. Your application of force must be reasonable vs what is being used against you. As such, your opponent chooses how severely you break or restrain them, you do not.
 
