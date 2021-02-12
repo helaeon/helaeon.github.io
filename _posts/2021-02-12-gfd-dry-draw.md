@@ -8,7 +8,7 @@ Everyone should spend quite a bit of time on dry fire as it is one of the best t
 
 Describing how to do a clean draw and presentation is difficult to do in writing. This is one of those places that a video is going to win. 
 <!--more-->
-Warrior Poet Society Pistol 1 on https://www.watchwpsn.com has a good draw stroke from appendix segment. 
+[Warrior Poet Society Pistol 1 on WPSN](https://www.watchwpsn.com) has a good draw stroke from appendix segment. 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NYhMpsl6enA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
