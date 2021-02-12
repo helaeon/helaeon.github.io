@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gunfighter Dojo : Dry Draw
+title: Gunfighter Dojo - Dry Draw
 excerpt_separator: <!--more-->
 categories: [Gunfighter Dojo, Skills]
 ---
@@ -10,9 +10,9 @@ Describing how to do a clean draw and presentation is difficult to do in writing
 <!--more-->
 Warrior Poet Society Pistol 1 on https://www.watchwpsn.com has a good draw stroke from appendix segment. 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/NYhMpsl6enA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NYhMpsl6enA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/dV18fGueIw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dV18fGueIw0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 There are several levels of draw practice from fully dry to loaded (wet). During your off range draw practice you will always do several things. 
