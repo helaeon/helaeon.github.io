@@ -16,14 +16,15 @@ Most of you that read what I have to write here are gunfighters. Every one of us
 
 I ask you to consider the following:
 Would you accept a 20% reduction of your draw speed or accuracy for 60-80% understanding or ability in:
-	+ modern information technology and security
-	+ how to grow your own food
-	+ biology & medicine
-	+ law
-	+ history of the founding of the United States
-	+ the ability to design and build your own electrical devices
-	+ passable hand to hand combat skills
-	+ physical strength
+
+- modern information technology and security
+- how to grow your own food
+- biology & medicine
+- law
+- history of the founding of the United States
+- the ability to design and build your own electrical devices
+- passable hand to hand combat skills
+- physical strength
 What if I told you that with that 20% reduction you could probably have all of those things and more? 1.2 seconds to 1.5... it wouldn't jeopardize your status of becoming a Knight or Lord if there is a collapse. I'd posit that it would make it even more likely.
 
 You need a lot less time to pick up 80% understanding of something than you need to get another 5% after you already have 80% and that gets worse the better you are. Think about what you're not doing because you're chasing a sub 1 second draw time with your CCW piece. Is that a circus trick? Is it to the exclusion of things that could be more useful or interesting? Are you not learning something you'll need to save yourself because you're trying to be exceptional at one thing... that you probably won't use. Are you becoming too specialized in that one weapon? Ultra-competent at a pistol, but awkward with a rifle? Do you need YOUR pistol to do those things?
