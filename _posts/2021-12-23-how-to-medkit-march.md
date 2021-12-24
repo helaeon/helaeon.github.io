@@ -26,7 +26,7 @@ The kit you'll reasonably carry hiking every time you go out is probably insuffi
 
 You cannot fix anything in the field your body is incapable of handling on its own. Anything you're "fixing" without a hospital trip is comfort related or allowing the body to fix itself faster or reduce chances of infection. Something life and limb threatening is a non-negotiable hospital trip.
 
->***MARCH***
+> ***MARCH***
 
 ***Massive Hemorrhage***
 
@@ -65,7 +65,7 @@ Put a survival blanket or wrap in your medkit. They're tiny, lightweight, and ch
 
 Do you know the symptoms of traumatic brain injury (TBI)? Again, not really a medkit thing, but sure will alter how you handle your patient. Again, what you know vs what you have.
 
->*** PAWS, the booboo kit. ***
+> ***PAWS the booboo kit***
 
 ***Pain***
 
