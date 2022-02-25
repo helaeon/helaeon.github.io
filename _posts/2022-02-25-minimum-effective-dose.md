@@ -1,0 +1,19 @@
+---
+layout: post
+title: Minimum Effective Dose
+excerpt_separator: <!--more-->
+categories: [Strategy, The Way, Mindset]
+---
+Consider a previous post I wrote on being a [Renaissance Man](https://helaeon.github.io/Renaissance-Mani/), this is an expansion and implementation of that. How much time and effort is needed to get 80% command or mastery over a topic or ability? What weight is needed on the bar to get strong and how many workouts a week are necessary? How many cartridges are necessary per range trip to improve and how many trips a month are needed? How much analgesic is needed to dull the pain from all that training you've been doing? Generally the correct answer to all of these is the Minimum Effective Dose.
+
+<!--more-->
+
+I'm stealing this idea from Mark Rippetoe of Starting Strength. He wrote an article on his website titled ["The Minimum Effective Dose of Training"](https://startingstrength.com/article/the-minimum-effective-dose-of-training) . It's worth reading the [Jonathon Sullivan post](https://startingstrength.com/article/barbell_training_is_big_medicine) linked in that article as well, but for different reasons.
+
+This concept applies strongly to athletic and combat endeavors because there is a price on your body that is extracted every time you apply stress to adapt to a higher level. There is a limit to your recovery speed and ability. Limiting this stress to the point where you will grow and improve, but not annihilate yourself makes you more capable during your recovery time, which will be pretty much always, and allow you to apply another adaptive stress sooner and with less psychological trauma that might cause you to skip.
+
+Consider this idea for range time. There is a limit of money, limit of time, limit of available ammunition (for any price), limit to how much we want to clean, drive time, etc. I've been shooting 50 rounds a month now for about 3 years. Some months I shoot less because the range time is as valuable or more so with the motions I'm doing and the bang isn't the critical part. This is a good minimum effective dose application. Going to 100 rounds wouldn't get me much more, but it does reduce the amount of ammunition I have and in times of scarcity endangers the next training trip! The consistency of once a month is more important than how many rounds I'm shooting. Twice a month is do-able but not as consistently. Every week is completely impossible and would possibly cause a complete halt to range time.
+
+How does this apply to dry draw and dry fire? Too much will cause you to get bored of it. It might become an imposition on your time. Your significant other may begin to resent it. Much of what we do for training is actually damaging and toxic, just like every medication, thus we must limit our exposure to the therapeutic range only and know the optimum dose is usually closer to the minimum effective level rather than the maximum tolerated.
+
+Using minimum effective dose lets you do more things allowing the theme of my Renaissance Man post to occur. You can do maybe 10 things all at minimum effective levels with room to spare, but only 1 or 2 at maximum tolerated. Those two things at maximum tolerance might wipe you out leaving no room for unexpected events or completely defeat your stamina to continue those activities on a long time scale. Long time scales is where substantial improvement really occurs. Low amounts over a long period of time or indefinitely are generally far more effective leading to permanent change than going hard for a short time. You may hit peak performance, but you are very likely to lose it.
