@@ -8,4 +8,7 @@ title: Challenges
 ------
 Get as much volume of fluid out of the sprayer as possible in 1 minute. You may not switch hands before the minute is up or support the bottle on anything (including yourself).
 Modification of the first challenge in this video:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GfCqR_8vhmY" target="_blank"><img src="http://img.youtube.com/vi/GfCqR_8vhmY/0.jpg" alt="Can You Beat @jujimufu at Spray Bottle Challenge" width="240" height="180" border="10" /></a>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GfCqR_8vhmY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+******
