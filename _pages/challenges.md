@@ -14,10 +14,15 @@ title: Challenges
 **9-30-2024 The Genie - Rope Climb** 
 ------
 On a rope suitable for rope climbing, sit with it hanging between your legs sitting criss cross and rise.
+
 Level 1: Reach up and do a single pull up.
+
 Level 2: Pull yourself up maintaining the criss cross legs
+
 Level 3: Pull yourself up and keep climbing without using your legs.
+
 Level 4: Pull yourself up and keep climbing while maintaining the criss cross.
+
 Level 5: Pull yourself up, keep climbing, maintaining the criss cross to the level that you can fully extend when you're done and your feet are above the floor.
 
 ******
