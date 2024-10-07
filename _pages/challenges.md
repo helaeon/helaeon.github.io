@@ -11,13 +11,19 @@ title: Challenges
 
 ******
 
+**10-7-2024 Overhead Plate Walk**
+------
+Hold a 45 pound bumper plate overhead and walk as far as you can. Plate must remain above the level of your head, it may not rest on your head. Your total distance is from where you lock it out overhead to where any part of the plate drops below the level of your head.
+
+******
+
 **9-30-2024 The Genie - Rope Climb** 
 ------
 On a rope suitable for rope climbing, sit with it hanging between your legs sitting criss cross and rise.
 
 Level 1: Reach up and do a single pull up.
 
-Level 2: Pull yourself up maintaining the criss cross legs
+Level 2: Pull yourself up maintaining the criss cross legs.
 
 Level 3: Pull yourself up and keep climbing without using your legs.
 
