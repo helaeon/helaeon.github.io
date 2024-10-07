@@ -5,6 +5,7 @@ title: Challenges
 ---
 ***ON-GOING LONG TERM***
 ------
+
 **9-10-2024 Police 1.5 Mile Improvement**
 ------
 1 easy (zone 2-3), 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
