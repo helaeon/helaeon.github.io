@@ -13,6 +13,25 @@ title: Challenges
 
 ******
 
+**10-14-2024 Grip Dyno**
+------
+
+Objective, independent measurement of grip strength using a dynamometer. These are available fairly inexpensively from Amazon and will work sufficiently well. They're about $20-30.
+
+Level 1: Less than 100 lb
+
+Level 2: 125 lb
+
+Level 3: 150 lb
+
+Level 4: 175 lb
+
+Level 5: 200 lb +
+
+For reference many of the Ninja Warrior guys are level 3-4, strongmen will be level 5, most women will not break level 1. Average dude will be level 1-2.
+
+******
+
 **10-7-2024 Overhead Plate Walk**
 ------
 Hold a 45 pound bumper plate overhead and walk as far as you can. Plate must remain above the level of your head, it may not rest on your head. Your total distance is from where you lock it out overhead to where any part of the plate drops below the level of your head.
