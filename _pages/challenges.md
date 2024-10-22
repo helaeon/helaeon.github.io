@@ -13,9 +13,20 @@ title: Challenges
 
 ******
 
+**10-21-2024 Concept2 Skeleton Crew**
+------
+[Concept2 Skeleton Crew Challenge 2024](https://log.concept2.com/challenges/skeleton-crew)
+
+RowErg, SkiErg, or Bike(2x meters) 31,000m cumulative between October 25-31. If you use a C2 erg product you can log it with their apps to go on the honorboard. Comes out to about 4,500 m/day if you go every day 5,200 if you do 6 of the 7 days. 
+
+If you do the 5200m it'll be 20 to 30 min each day. Similar effort to running a 5k, but it doesn't beat you up nearly as bad.
+
+If you want to do only the challenge and don't care about the leaderboards logging 31km of running applies as well.
+
+******
+
 **10-14-2024 Grip Dyno**
 ------
-
 Objective, independent measurement of grip strength using a dynamometer. These are available fairly inexpensively from Amazon and will work sufficiently well. They're about $20-30.
 
 Level 1: Less than 100 lb
