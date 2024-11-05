@@ -13,6 +13,30 @@ title: Challenges
 
 ******
 
+**11-05-2024 Rack-Ceiling Height Rope Progression**
+------
+Finding a full height (20'+) rope to climb is really difficult. Training and practicing to be able to climb such a rope can be done with a ceiling height or power rack height rope using your secure pull up bar. All ropes are not created equal, the natural fiber thick ropes with deep groove braiding and a big diameter (but not too big) are much easier to climb than a poly ship rope or a poly rope generally like would be seen at Spartan. A belay climbing rope is incredibly hard to climb due to its slickness and narrow diameter.
+
+The higher the rope can be hung the more productive your training will be, but on the pullup bar of an 84" power rack is good enough. Make sure the rope will not slide side to side.
+
+*Footlock from a box* Sit on a box, chair, etc, with the rope hanging in front of you. Practice several different kinds of foot locks and try to push the rope away from you with your feet once locked in. Then stand up from the box to your pull-up bar to do a foot assisted pull-up. You can use your hands on the rope to stabilize on the way up, but your footlock must remain solid.
+
+*Footlock from hang* Hanging from your pull up bar, establish your footlock then do an assisted pull-up by standing up on the rope.
+
+*Plank-ups* Lay on your back with the rope hanging such that it dangles down to hit you about at the belly button. Grab the rope and climb it with only your hands keeping your body rigid and rotating up on your heels. Then walk yourself back down. If you're not strong enough to go hand over hand, do a single pull up on the rope while planked then let yourself down. 
+
+*Genie* See the earlier challenge on this one. This will convert the hand conditioning and row type pull from the plank ups to a more vertical grip overhead power application that is needed to rope climb.
+
+*Putting it all together* With a rack height rope you should be able to practice the take-off from the ground. Unfortunately converting that to the next climb will have to be done at your event or when you do have access to a full length rope. But, if you can do the above your chances are good that you'll get it. 
+
+Here are two videos for some technique & instruction. This is one of the places that the CrossFitters have a lot of positive things to teach. These are both pretty long.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L5VOdEp1Ml4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DckUnSsuRwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+******
+
 **10-21-2024 Concept2 Skeleton Crew**
 ------
 [Concept2 Skeleton Crew Challenge 2024](https://log.concept2.com/challenges/skeleton-crew)
