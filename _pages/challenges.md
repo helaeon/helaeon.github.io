@@ -3,13 +3,10 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
-***ON-GOING LONG TERM***
-------
 
-
-**9-10-2024 Police 1.5 Mile Improvement**
+**11-12-2024 Running Challenge Test**
 ------
-1 easy (zone 2-3), 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
+It's time to test if you actually brought down your high to max effort run time for the distance you chose. Can you cover 1.5 miles in 11 minutes or less? Or if you did the 5k version did that get faster? It's time for a new PR.
 
 ******
 
@@ -95,5 +92,11 @@ Get as much volume of fluid out of the sprayer as possible in 1 minute. You may 
 Modification of the first challenge in this video:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/GfCqR_8vhmY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+******
+
+**9-10-2024 Police 1.5 Mile Improvement**
+------
+1 easy (zone 2-3), 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
 
 ******
