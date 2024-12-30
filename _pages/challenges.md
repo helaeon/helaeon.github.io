@@ -4,6 +4,17 @@ permalink: /challenges/
 title: Challenges
 ---
 
+**12-30-24 Should you be a Resolutioner?**
+------
+Are you actually as strong, fast, endurant as you think you are? When was the last time you weighed yourself?
+Squat, Deadlift, Bench, Overhead, Chin-up for weight, not reps.
+500m run for time (or row, or 1KM on bike)
+1hr steady state run, row, or bike.
+
+Is it what you expected?
+
+******
+
 **11-12-2024 Running Challenge Test**
 ------
 It's time to test if you actually brought down your high to max effort run time for the distance you chose. Can you cover 1.5 miles in 11 minutes or less? Or if you did the 5k version did that get faster? It's time for a new PR.
