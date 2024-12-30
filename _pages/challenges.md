@@ -6,9 +6,14 @@ title: Challenges
 
 **12-30-24 Should you be a Resolutioner?**
 ------
-Are you actually as strong, fast, endurant as you think you are? When was the last time you weighed yourself?
+Are you actually as strong, fast, endurant as you think you are? 
+
+When was the last time you weighed yourself?
+
 Squat, Deadlift, Bench, Overhead, Chin-up for weight, not reps.
+
 500m run for time (or row, or 1KM on bike)
+
 1hr steady state run, row, or bike.
 
 Is it what you expected?
