@@ -3,6 +3,15 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**1-07-25 Fast Steady State**
+------
+This is a 2 week challenge as you'll need two of your "long run" days to do it. You'll need knowledge of your heart rate zones for this to work properly.
+
+Week one you Run/Bike/Row at your fastest comfortable pace, but you may not breach zone 4. If you get there you have to slow down, or stop (if you stop start again when you're at the bottom of zone 2). Clock keeps running when you stop. Keep this up for an hour. You'll notice that your pace is very uneven and overall you'll be slowing down during your active phases. It's very likely your speed will be entirely controlled by bumping into zone 4 and how long it takes to rest back to the bottom of zone 2. When you're finished you need to record your average power or pace for the entire hour (including the rests).
+
+Week two you use the same implement as last week, but this time set out at the average pace yielded from last week. Very likely this will be close to your average steady state pace, and this segment will prove out if that's so. Hold that pace/power for the entire time. At the beginning it is likely to be too easy, end maybe a little too hard. You still should probably not breach zone 4 (but if you do it's okay, especially at the end).
+
+******
 
 **12-30-24 Should you be a Resolutioner?**
 ------
