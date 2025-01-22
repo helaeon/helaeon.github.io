@@ -3,6 +3,12 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**1-22-25 Sandbag to Shoulder**
+------
+Simple but not easy. Biggest sandbag to shoulder you can muster AND be able to walk with it. Bonus points for taking it up a flight of stairs.
+
+******
+
 **1-07-25 Fast Steady State**
 ------
 This is a 2 week challenge as you'll need two of your "long run" days to do it. You'll need knowledge of your heart rate zones for this to work properly.
