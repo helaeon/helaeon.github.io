@@ -3,7 +3,7 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
-**1-22-25 Ascending Doubles - Squat**
+**1-27-25 Ascending Doubles - Squat**
 ------
 You'll need a barbell, plates, and a power rack or squat stand with the safeties set appropriately. Or a belt squat setup.
 
