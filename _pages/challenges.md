@@ -3,6 +3,19 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**1-22-25 Ascending Doubles - Squat**
+------
+You'll need a barbell, plates, and a power rack or squat stand with the safeties set appropriately. Or a belt squat setup.
+
+Each squat must be below parallel to count (top of hip socket below top of knee). Ass to Grass is not necessary unless that is the standard you choose for your squats. You may do the squat variation of your choice, however, once you choose you must stick with it for the challenge and depth standard does not change.
+
+Start at one-half body weight and do a double. Add 10 lb (or 5kg) and do another double, repeat until you put it in the safeties, fail on depth, or decide you cannot continue with good form. You may rest between doubles as much as you like. When getting to the very top end you may switch to 5 lb (2.5kg) increments, once you do you may not go back to 10 lb (5kg).
+
+Score is your top weight successfully squatted with good form & depth.
+What was that number, and how many total reps did you end up doing?
+
+******
+
 **1-22-25 Sandbag to Shoulder**
 ------
 Simple but not easy. Biggest sandbag to shoulder you can muster AND be able to walk with it. Bonus points for taking it up a flight of stairs.
