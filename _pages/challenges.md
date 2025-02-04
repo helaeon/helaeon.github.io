@@ -3,6 +3,12 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**2-3-25 Consistency Challenge**
+------
+Consistency is the key to gains. Standardize before you optimize. Gear up and make it to your workout space three times this week (preferably to plan), even if you don't do anything. You can skip but you still have to go. Very probable that once you're there you will do something.
+
+******
+
 **1-27-25 Ascending Doubles - Squat**
 ------
 You'll need a barbell, plates, and a power rack or squat stand with the safeties set appropriately. Or a belt squat setup.
