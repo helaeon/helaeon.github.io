@@ -9,6 +9,7 @@ title: Challenges
 RowErg, SkiErg, or Bike(counts for half) 14,000m cumulative between Feb 9-14. If you use a C2 erg product you can log it with their apps to go on the honorboard.
 
 If you want to do only the challenge and don't care about the leaderboards logging 14km of running counts as well.
+
 ******
 
 **2-3-25 Consistency Challenge**
