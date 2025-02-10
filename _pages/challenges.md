@@ -3,6 +3,14 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**2-9-25 C2 Valentines**
+------
+[Concept2 Valentine Challenge 2025](https://log.concept2.com/challenges/valentine)
+RowErg, SkiErg, or Bike(counts for half) 14,000m cumulative between Feb 9-14. If you use a C2 erg product you can log it with their apps to go on the honorboard.
+
+If you want to do only the challenge and don't care about the leaderboards logging 14km of running counts as well.
+******
+
 **2-3-25 Consistency Challenge**
 ------
 Consistency is the key to gains. Standardize before you optimize. Gear up and make it to your workout space three times this week (preferably to plan), even if you don't do anything. You can skip but you still have to go. Very probable that once you're there you will do something.
