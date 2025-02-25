@@ -3,13 +3,25 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**2-25-25 Ascending Doubles - Bench**
+------
+You'll need a barbell, plates, and a power rack or squat/bench stand with the safeties set appropriately. Safeties set appropriately is not optional!
+
+Each rep must touch your chest to count, butt stays on bench, and bar under control. No sternum trampolines.
+
+Start with the bar. Each set will be a double. Jumps may be 20 lb, 10 lb, 5 lb, or 2.5 lb. Ascent ends when you fail on depth, or decide you cannot continue with good form. You may rest between doubles as much as you like. Once you switch to a lower increment you cannot go to a bigger jump again.
+
+Score is your top weight successfully benched with good form & depth.
+What was that number, and how many total reps did you end up doing?
+
+******
+
 **2-9-25 C2 Valentines**
 ------
 [Concept2 Valentine Challenge 2025](https://log.concept2.com/challenges/valentine)
 RowErg, SkiErg, or Bike(counts for half) 14,000m cumulative between Feb 9-14. If you use a C2 erg product you can log it with their apps to go on the honorboard.
 
 If you want to do only the challenge and don't care about the leaderboards logging 14km of running counts as well.
-
 ******
 
 **2-3-25 Consistency Challenge**
