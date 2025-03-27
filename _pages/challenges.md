@@ -3,6 +3,14 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**3-27-25 40 Minute Steady State**
+------
+On your favorite conditioning implement maintain the same pace or wattage for 40 minutes straight, no breaks. Must be zone 2 or higher heart rate. Ideally it will be zone 2 and you'll sit there the whole time.
+
+Where did the cardiac climb start? How long was it massively too easy? Did you blow up at the end?
+
+******
+
 **2-25-25 Ascending Doubles - Bench**
 ------
 You'll need a barbell, plates, and a power rack or squat/bench stand with the safeties set appropriately. Safeties set appropriately is not optional!
