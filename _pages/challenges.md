@@ -3,6 +3,16 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**4-30-25 Endurance Challenge pt 1**
+------
+Anything less than an hour is the sort of event that for most will require no support, no food, no water, no special consideration on equipment or course. Most people do not exercise, and most people that do, work for an hour or less at a time. Two hours is something else, four even more so. People are generally not used to being on their feet and under load continuously for these kinds of times. It's why Iron Man, Ultras, Marathons, and Spartan Beasts are a big deal even just to finish.
+
+First challenge in this series is a 2 hour continuous mid-effort ideally on trail, with significant ascent (1000'+, 1500'+ is better). No rest, no stopping unless you're quitting. Most people when they go on a hike spend a lot of time in zone 1, and some spikes of 4 when they climb hills. For this the goal is to even that out a bit, on the easy stuff it's still high 2 - mid 3. And allowing into high 4 for the hills, we're trying to stay out of zone 5 like usual (though it will happen if you're doing this right and the hills are severe enough).
+
+You have to decide your paces and need for support, the more you know about yourself the more even your pace can be and wiser about hills. You will likely want no less than 2L of water, unless you are experienced at these times. 2.5L might be wise to make sure you don't run out. 2 L bladder and a 500mL flask is handy, especially if the flask is electrolyte mix. Be thinking about 20-25g of sugar every 30-60 minutes after the first hour, though some will want to start the snacks about 30 min in, and put in 100 cal or so every 30 min thereafter or 50 every 15 minutes. For this challenge that would be 2-3 packs of gummy bears total. Don't forget about electrolytes we all have different needs (genetics) here so it's hard to prescribe and heat matters a ton. Gatorade probably isn't right, it's too sweet and not enough salt. It's awesome for after. I've been using products from SaltStik (chewable tabs), Gnarly, Skratch, LiquidIV, and LMNT. Not enough is usually a bigger problem than too much, if you're healthy. Potassium in particular.
+
+******
+
 **3-27-25 40 Minute Steady State**
 ------
 On your favorite conditioning implement maintain the same pace or wattage for 40 minutes straight, no breaks. Must be zone 2 or higher heart rate. Ideally it will be zone 2 and you'll sit there the whole time.
