@@ -3,6 +3,15 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+
+**5-27-25 Towel Pull-up & Hang**
+------
+Pull-ups on a bar are the ideal situation. On a solid bar of reasonable diameter your brain has no reason to think that you're likely to lose your grip, thus you can apply full force to executing the movement. In the real world you'll find you rarely have an ideal situation for a pull-up. Over walls, climbing holds, window ledges, tree branches, ropes, etc, you'll find that you almost never have an ideal grip in the real world. Non-ideal grip means your brain will refuse to send full power to the muscles executing the movement.
+
+Towel pull-ups are a good way to challenge your grip and pull-up power at once. Ropes also work for this purpose. Coil up the towel like you're going to whip someone and hang it over your pull-up bar. One hand on each leg of the towel and hang there as long as you can, or knock out some full to-chest pull-ups. 
+
+******
+
 **4-30-25 Endurance Challenge pt 1**
 ------
 Anything less than an hour is the sort of event that for most will require no support, no food, no water, no special consideration on equipment or course. Most people do not exercise, and most people that do, work for an hour or less at a time. Two hours is something else, four even more so. People are generally not used to being on their feet and under load continuously for these kinds of times. It's why Iron Man, Ultras, Marathons, and Spartan Beasts are a big deal even just to finish.
