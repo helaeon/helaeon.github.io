@@ -3,6 +3,18 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**6-10-25 Heat Experience**
+------
+*Note this challenge is actually dangerous. It is offered because not having this knowledge or experience is arguably more dangerous*
+Challenge \+ Tutorial \+ Training for this one as you're in it for the experience and to learn something. It's best if you do fail at it a little bit. If it's easy you didn't really learn anything so you needed to apply more effort/intensity than you did, or it needs to be closer to 100F. Read the blog post about heat experience. The Sun itself is a big part of the challenge. A hot room works, but it's not the same. Think about and digest those lessons and any others you may have had then head for the trailhead or track on a hot afternoon. Sunnier, hotter, the better. You'll want a course that ideally has some climb and is the sort of thing you can do in laps so loops are best. Distance per lap based on your fitness level (less than 30 min per lap if possible). Set your car up with a cooler with cold electrolyte drinks (potent ones, Gatorade is not enough). Your car is your aid station, you should be able to re-fill your carry water, top up on electrolytes, sit in the shade, use the air conditioning, or abort entirely if wise.
+
+Hit the trail and vary your work effort. This is really about feeling it out, trying a little too hard, and then learning how to get yourself to recover trying to not get past the point of no return. More than an hour is necessary to really test this and experience it. This is even better if you attempt multiple times so you can try out things like UPF shirts, wetting them, trying hats, making sure your sunscreen is applied well and you're using enough... experimentation to gain knowledge and wisdom is the point here.
+
+It's FAR better if you can do this with a buddy that has a bit of experience and/or is fitter than you. It's very unlikely you'll both bonk at the same time and make stupid decisions together.
+
+One may ask why do this? You're not trail running for a dozen + miles. You may be called on in time of natural disaster or emergency to work outside, hard, for long periods and you need to know how it feels when it's time to take care of yourself and how close you are to heat bonk such you do not become useless or a casualty, and so that you can see it in others to take care of them too.
+
+******
 
 **5-27-25 Towel Pull-up & Hang**
 ------
@@ -46,14 +58,14 @@ What was that number, and how many total reps did you end up doing?
 **2-9-25 C2 Valentines**
 ------
 [Concept2 Valentine Challenge 2025](https://log.concept2.com/challenges/valentine)
-RowErg, SkiErg, or Bike(counts for half) 14,000m cumulative between Feb 9-14. If you use a C2 erg product you can log it with their apps to go on the honorboard.
+RowErg, SkiErg, or Bike (counts for half) 14,000m cumulative between Feb 9-14. If you use a C2 erg product you can log it with their apps to go on the honorboard.
 
 If you want to do only the challenge and don't care about the leaderboards logging 14km of running counts as well.
 ******
 
 **2-3-25 Consistency Challenge**
 ------
-Consistency is the key to gains. Standardize before you optimize. Gear up and make it to your workout space three times this week (preferably to plan), even if you don't do anything. You can skip but you still have to go. Very probable that once you're there you will do something.
+Consistency is the key to gains. Standardize before you optimize. Gear up and make it to your workout space three times this week \(preferably to plan\(, even if you don't do anything. You can skip but you still have to go. Very probable that once you're there you will do something.
 
 ******
 
@@ -136,7 +148,7 @@ Here are two videos for some technique & instruction. This is one of the places 
 ------
 [Concept2 Skeleton Crew Challenge 2024](https://log.concept2.com/challenges/skeleton-crew)
 
-RowErg, SkiErg, or Bike(2x meters) 31,000m cumulative between October 25-31. If you use a C2 erg product you can log it with their apps to go on the honorboard. Comes out to about 4,500 m/day if you go every day 5,200 if you do 6 of the 7 days. 
+RowErg, SkiErg, or Bike (2x meters) 31,000m cumulative between October 25-31. If you use a C2 erg product you can log it with their apps to go on the honorboard. Comes out to about 4,500 m/day if you go every day 5,200 if you do 6 of the 7 days. 
 
 If you do the 5200m it'll be 20 to 30 min each day. Similar effort to running a 5k, but it doesn't beat you up nearly as bad.
 
@@ -195,6 +207,6 @@ Modification of the first challenge in this video:
 
 **9-10-2024 Police 1.5 Mile Improvement**
 ------
-1 easy (zone 2-3), 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
+1 easy (zone 2-3(, 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
 
 ******
