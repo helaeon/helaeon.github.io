@@ -3,7 +3,7 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
-**7-07-25 One Good One**
+**7-09-25 One Good One**
 ------
 Can you do body weight or calisthenic movements with nearly perfect technique, once? No bounce, no kip except on those that require it, full range of motion? Don't need to figure out how to rep them out. Just do one in hard mode. Deliberate with no momentum.
 Note I'm missing quite a few normal human movements because... to really train and test them you need weight. Note ALL of these are easier if you are lighter. Some of them stronger you are generally the harder they might be. Some you may be plenty strong to do but you're simply too heavy, especially at the higher levels.
