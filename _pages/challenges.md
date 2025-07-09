@@ -9,46 +9,46 @@ Can you do body weight or calisthenic movements with nearly perfect technique, o
 Note I'm missing quite a few normal human movements because... to really train and test them you need weight. Note ALL of these are easier if you are lighter. Some of them stronger you are generally the harder they might be. Some you may be plenty strong to do but you're simply too heavy, especially at the higher levels.
 
 Level 1.
-\+ Push up from floor (to toes not knees)
-\+ Ass to grass squat
-\+ Chest to bar pull or chin up. Self generated kip from dead hang if needed (this is up by any means necessary)
-\+ Sit-up to feet without hands touching the ground (your feet do not have to be flat)
-\+ Burpee by any means necessary
-\+ 15 second dead hang
-\+ Single Leg Calf Raise
-\+ Single Leg Glute Bridge
+- Push up from floor (to toes not knees)
+- Ass to grass squat
+- Chest to bar pull or chin up. Self generated kip from dead hang if needed (this is up by any means necessary)
+- Sit-up to feet without hands touching the ground (your feet do not have to be flat)
+- Burpee by any means necessary
+- 15 second dead hang
+- Single Leg Calf Raise
+- Single Leg Glute Bridge
 
 Level 2
-\+ Push up from floor with clap
-\+ Sit up to feet from floor & stand
-\+ Chest to bar pull-up strict
-\+ Knee to floor lunge, forward & backward each leg
-\+ Dip (humerus parallel to floor or further)
-\+ Single Leg Calf Raise with starting with toes about 2" elevated and heel on the floor. 
+- Push up from floor with clap
+- Sit up to feet from floor & stand
+- Chest to bar pull-up strict
+- Knee to floor lunge, forward & backward each leg
+- Dip (humerus parallel to floor or further)
+- Single Leg Calf Raise with starting with toes about 2" elevated and heel on the floor. 
 
 Level 3
-\+ Explosive Burpee (propel yourself to squat position from the pushup)
-\+ Hanging L-Sit (1-2 seconds is enough)
-\+ 5 second 1-arm dead hang (each hand)
-\+ Box step-up 1/3 your height, no using your ground leg for take off. (For 6-1 me, that's about 24").
-\+ All limbs leave the ground push-up (knees don't touch)
-\+ Chest to bar pull up with a 2" diameter bar
+- Explosive Burpee (propel yourself to squat position from the pushup)
+- Hanging L-Sit (1-2 seconds is enough)
+- 5 second 1-arm dead hang (each hand)
+- Box step-up 1/3 your height, no using your ground leg for take off. (For 6-1 me, that's about 24").
+- All limbs leave the ground push-up (knees don't touch)
+- Chest to bar pull up with a 2" diameter bar
 
 Level 4
-\+ Front Lever (1-2 seconds is enough)
-\+ Muscle up (kipping allowed, as long as you start from a dead hang)
-\+ Single Leg Squat
-\+ Pull up where only to your first finger joint can get on the ledge. Rock climber stuff. (about 25mm depth)
-\+ Handstand wall walk
-\+ [Frog Stand](https://www.youtube.com/shorts/UtckIm2svd4)
-\+ [Dragon Flag](https://www.youtube.com/shorts/yFiNw9EsJfI)
+- Front Lever (1-2 seconds is enough)
+- Muscle up (kipping allowed, as long as you start from a dead hang)
+- Single Leg Squat
+- Pull up where only to your first finger joint can get on the ledge. Rock climber stuff. (about 25mm depth)
+- Handstand wall walk
+- [Frog Stand](https://www.youtube.com/shorts/UtckIm2svd4)
+- [Dragon Flag](https://www.youtube.com/shorts/yFiNw9EsJfI)
 
 Level 5
-\+ [Pistol squat](https://www.youtube.com/watch?v=vq5-vdgJc0I)
-\+ [Shrimpin' get-up / Kip-up](https://www.youtube.com/shorts/wCVjqw7cPRw) 
-\+ Handstand push-up
-\+ [Human Flag](https://www.youtube.com/shorts/HlD2UmOIokA)
-\+ [Planche Push-up](https://www.youtube.com/shorts/lMSenJbj2DM)
+- [Pistol squat](https://www.youtube.com/watch?v=vq5-vdgJc0I)
+- [Shrimpin' get-up / Kip-up](https://www.youtube.com/shorts/wCVjqw7cPRw) 
+- Handstand push-up
+- [Human Flag](https://www.youtube.com/shorts/HlD2UmOIokA)
+- [Planche Push-up](https://www.youtube.com/shorts/lMSenJbj2DM)
 
 ******
 
