@@ -41,11 +41,11 @@ Level 4
 - Pull up where only to your first finger joint can get on the ledge. Rock climber stuff. (about 25mm depth)
 - Handstand wall walk
 - [Frog Stand](https://www.youtube.com/shorts/UtckIm2svd4)
-- [Dragon Flag](https://www.youtube.com/shorts/yFiNw9EsJfI)
+- [Dragon Flag](https://www.youtube.com/shorts/yFiNw9EsJfI)
 
 Level 5
 - [Pistol squat](https://www.youtube.com/watch?v=vq5-vdgJc0I)
-- [Shrimpin' get-up / Kip-up](https://www.youtube.com/shorts/wCVjqw7cPRw) 
+- [Shrimpin get-up / Kip-up](https://www.youtube.com/shorts/wCVjqw7cPRw) 
 - Handstand push-up
 - [Human Flag](https://www.youtube.com/shorts/HlD2UmOIokA)
 - [Planche Push-up](https://www.youtube.com/shorts/lMSenJbj2DM)
