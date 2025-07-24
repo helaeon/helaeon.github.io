@@ -3,6 +3,20 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**7-24-25 Pound a Week of Fat**
+------
+Thermodynamics says to lose a pound of fat in a week it's necessary to achieve a caloric deficit of 3500-4100 calories. That's 585 calories per day, every day, for 1 week. About 4 cans of full sugar soda or 2 Monsters or 12 Chicken Nuggets or 2 Slices of Pizza... completely minused from your diet. Every day. Never replaced. It's not a crazy amount, but it's also significant, and you will be hungry. For me that takes my daily intake from 2600 cal/day down to 2000 cal/day. It's an actual hole. I'm still lifting & running like I would be otherwise, to stay the same size I actually require 2600 cal/day. Whether you're a 20 lb cat or 250 lb human, if 1 lb of fat needs to go, 4100 calories that are needed must not be consumed. The smaller you are (women) the harder it is to lose mass because you don't have as big of an expenditure to work with.
+
+The challenge is to maintain an actual 500-600 calorie daily deficit for 2 weeks. 14 days. No cheat meals. No cheat days. That's what it takes to lose 2 pounds of fat. 
+
+If you don't, you weren't actually in that big of a deficit. Actually you should lose more due to loss of some water weight. Yep. It's hard. Yep it sucks. This is why most people are overfat. Undoing it sucks, and most people generally overeat 100-300 calories daily, always. Meaning food reduction is more like 800 cal/day. Which by the way \+ 100-300 cal/day is a gain of a pound every 2-6 weeks. 10-25 lb per year. Yes your expenditure goes up to match your higher mass and eventually people do level out... but you can see how easy it is to end up 50-100lb overfat.
+
+You'll need to do this with food. Activity isn't going to do it. A 5k ran at decent but sustainable intensity to do every day will be about 250-350 calories and take about half an hour to 45 minutes. 600 cal/hr intensity every day for an hour is very unlikely to be sustainable. Though you will question if it is worth it to work that hard to keep eating as you are... so there's value there.
+
+Rare product recommendation. [Macrofactor](https://macrofactorapp.com/) absolutely rules for this. If you want control over your weight and what goes in your face it's absolutely amazing and is worth the cost. It is absolutely diet neutral. It doesn't tell you not to eat the cake or the pizza, just the impact it is having. Doesn't tell you what to eat either. It's just a log, calculator, and database. Go buy a scale for your food and yourself. Do it right.
+  
+------
+
 **7-09-25 One Good One**
 ------
 Can you do body weight or calisthenic movements with nearly perfect technique, once? No bounce, no kip except on those that require it, full range of motion? Don't need to figure out how to rep them out. Just do one in hard mode. Deliberate with no momentum.
@@ -49,6 +63,8 @@ Level 5
 - Handstand push-up
 - [Human Flag](https://www.youtube.com/shorts/HlD2UmOIokA)
 - [Planche Push-up](https://www.youtube.com/shorts/lMSenJbj2DM)
+
+******
 
 ******
 
