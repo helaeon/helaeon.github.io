@@ -8,12 +8,12 @@ title: Challenges
 20 Minute Bike (Fan, Erg, Trainer, Outside), 20 Minute RowErg, , 20 Min on Foot (Treadmill at 6% incline or Outside). That order. 5 Minutes between events to transition. Score is for overall distance.
 
 Some tips
-**DO** take advantage of the full 5 min transition.
-**DO** have your equipment pre-staged to make the transition smooth.
-**DO** pace yourself, be thinking about zone 2-3 early on.
-**DO** have an electrolyte drink ready for between stages.
-**DON'T** try to make up time on an implement you're good at to make up for one you're not.
-**DON'T** quit. It's not that long, keep going, slow down if you have to, but keep going.
+- **DO** take advantage of the full 5 min transition.
+- **DO** have your equipment pre-staged to make the transition smooth.
+- **DO** pace yourself, be thinking about zone 2-3 early on.
+- **DO** have an electrolyte drink ready for between stages.
+- **DON'T** try to make up time on an implement you're good at to make up for one you're not.
+- **DON'T** quit. It's not that long, keep going, slow down if you have to, but keep going.
 
 ------
 
@@ -288,5 +288,6 @@ Modification of the first challenge in this video:
 **9-10-2024 Police 1.5 Mile Improvement**
 ------
 1 easy (zone 2-3(, 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
+
 
 ******
