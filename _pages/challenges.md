@@ -3,6 +3,20 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**8-26-25** 1-Hour Dry-Tri
+------
+20 Minute Bike (Fan, Erg, Trainer, Outside), 20 Minute RowErg, , 20 Min on Foot (Treadmill at 6% incline or Outside). That order. 5 Minutes between events to transition. Score is for overall distance.
+
+Some tips
+**DO** take advantage of the full 5 min transition.
+**DO** have your equipment pre-staged to make the transition smooth.
+**DO** pace yourself, be thinking about zone 2-3 early on.
+**DO** have an electrolyte drink ready for between stages.
+**DON'T** try to make up time on an implement you're good at to make up for one you're not.
+**DON'T** quit. It's not that long, keep going, slow down if you have to, but keep going.
+
+------
+
 **7-24-25 Pound a Week of Fat**
 ------
 Thermodynamics says to lose a pound of fat in a week it's necessary to achieve a caloric deficit of 3500-4100 calories. That's 585 calories per day, every day, for 1 week. About 4 cans of full sugar soda or 2 Monsters or 12 Chicken Nuggets or 2 Slices of Pizza... completely minused from your diet. Every day. Never replaced. It's not a crazy amount, but it's also significant, and you will be hungry. For me that takes my daily intake from 2600 cal/day down to 2000 cal/day. It's an actual hole. I'm still lifting & running like I would be otherwise, to stay the same size I actually require 2600 cal/day. Whether you're a 20 lb cat or 250 lb human, if 1 lb of fat needs to go, 4100 calories that are needed must not be consumed. The smaller you are (women) the harder it is to lose mass because you don't have as big of an expenditure to work with.
