@@ -3,10 +3,21 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**9-12-25** Maximum Speed
+------
+On a day where you have a favorable temperature (not too hot, not too cold), at a long stretch of flat road or track with a good surface, with your best running shoes on; run as fast as you can, where you physically cannot go any faster and hold that for as long as possible.
+
+How far did you go? What speed (min/mi or mph)? For what duration? What did your heart rate get up to?
+
+Note subsequent attempts this will work like a ramp test, eventually you will hit your actual maximum heart rate. Getting to max heart rate hurts. Very likely to get nauseous and light headed if it happens. Be aware.
+
+------
+
 **8-26-25** 1-Hour Dry-Tri
 ------
 20 Minute Bike (Fan, Erg, Trainer, Outside), 20 Minute RowErg, , 20 Min on Foot (Treadmill at 6% incline or Outside). That order. 5 Minutes between events to transition. Score is for overall distance.
 
+Some tips
 Some tips
 - **DO** take advantage of the full 5 min transition.
 - **DO** have your equipment pre-staged to make the transition smooth.
@@ -288,6 +299,5 @@ Modification of the first challenge in this video:
 **9-10-2024 Police 1.5 Mile Improvement**
 ------
 1 easy (zone 2-3(, 1 fast (zone 4), 1 long run (over an hour) every week for the next 10 weeks. Goal is to do 1.5 miles in less than 13 minutes (sub 8:40/mi pace sustained). Or, improve your 1.5 or 5k pace overall if you're already that fast. Bonus if you can do sub 13 min on the spot without zone 5. As in, not specifically tapering or resting for the test event. 
-
 
 ******
