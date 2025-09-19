@@ -3,6 +3,12 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**9-19-25** Run in the Rain
+------
+Very simple challenge this time. Go for a run in the rain. Go even if you are pretty sure it's going to rain. This is more about discomfort and non-ideal circumstances than the difficulty of the workout. Hour plus would be good. Don't go knock out a 10 min HIIT session and call it good. Go out, and be in it a while. It's fine.
+
+------
+
 **9-12-25** Maximum Speed
 ------
 On a day where you have a favorable temperature (not too hot, not too cold), at a long stretch of flat road or track with a good surface, with your best running shoes on; run as fast as you can, where you physically cannot go any faster and hold that for as long as possible.
