@@ -3,6 +3,18 @@ layout: page
 permalink: /challenges/
 title: Challenges
 ---
+**10-24-2025 Concept2 Skeleton Crew**
+------
+[Concept2 Skeleton Crew Challenge 2024](https://log.concept2.com/challenges/skeleton-crew)
+
+RowErg, SkiErg, or Bike (2x meters) 31,000m cumulative between October 25-31. If you use a C2 erg product you can log it with their apps to go on the honorboard. Comes out to about 4,500 m/day if you go every day 5,200 if you do 6 of the 7 days. 
+
+If you do the 5200m it'll be 20 to 30 min each day. Similar effort to running a 5k, but it doesn't beat you up nearly as bad.
+
+If you want to do only the challenge and don't care about the leaderboards logging 31km of running applies as well.
+
+------
+
 **9-19-25** Run in the Rain
 ------
 Very simple challenge this time. Go for a run in the rain. Go even if you are pretty sure it's going to rain. This is more about discomfort and non-ideal circumstances than the difficulty of the workout. Hour plus would be good. Don't go knock out a 10 min HIIT session and call it good. Go out, and be in it a while. It's fine.
